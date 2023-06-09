@@ -1,0 +1,9 @@
+mencoba dengan membandingkan case UAS dengan tugas praktikum T11
+memindahkan struktur formt kode yang tidak teratur & menghapus format kode yang tidak dibutuhkan
+mengganti fgets stin menjadi getchar
+menambah format strtok untuk memotong kalimat yang mirip dengan tugas t11
+mengganti format while fgets jadi getchar
+update
+menambahkan format identifikasi todo-status untuk mengpdate status
+membuat format id++
+memasukkan format yang ada dalam case 3 ke case 2

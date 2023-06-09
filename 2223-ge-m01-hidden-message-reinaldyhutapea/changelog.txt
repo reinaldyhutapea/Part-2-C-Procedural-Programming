@@ -1,0 +1,9 @@
+memakai code t04 sebelumnya
+menambah fungsi baru untuk kolom
+mencoba memformat setiap kolom yang ingin dikonversi menjadi sebaris
+mengganti urutan untuk program output
+mengoreksi bagian yang salah dari output yang telah dicoba
+Menambahkan kondisi pada if di dalam loop while agar karakter '\n' tidak ditampilkan pada output horizontal
+mengubah sebagian code 
+membuat kondisi sis != 0
+mengurangi \n
